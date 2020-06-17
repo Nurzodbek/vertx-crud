@@ -7,7 +7,7 @@ import io.vertx.core.Vertx;
 
 public class FileController {
 
-// Nurzodjonbek
+
     private FilePostgreSQLClient filePostgreSQLClient;
 
     public FileController(Vertx vertx){
