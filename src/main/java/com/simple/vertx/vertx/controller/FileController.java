@@ -6,8 +6,8 @@ import io.vertx.core.Future;
 import io.vertx.core.Vertx;
 
 public class FileController {
-s
 
+// Nurzod
     private FilePostgreSQLClient filePostgreSQLClient;
 
     public FileController(Vertx vertx){
